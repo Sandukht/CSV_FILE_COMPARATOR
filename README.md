@@ -66,8 +66,11 @@ CSV_FILE_COMPARATOR/
 ## Example Output
 
 ✅ input.csv is read (100 lines).
+
 ✅ output.csv is created (50 lines).
+
 ✅ output.csv is read (50 lines).
+
 🔍 File Comparison...
 
 ===== FINAL REPORT =====
