@@ -50,19 +50,16 @@ differences.txt will list all differences between input.csv and output.csv.
 ## Project Structure
 
 CSV_FILE_COMPARATOR/
-│
 ├─ src/main/java/com/example/
-│  ├─ OpenFile.java        # Reads CSV files
-│  ├─ ChangeFile.java      # Modifies CSV data
-│  ├─ CompareFiles.java    # Compares CSV files and generates differences
-│  └─ Main.java            # Runs the project
-│
+│ ├─ OpenFile.java # Reads CSV files
+│ ├─ ChangeFile.java # Modifies CSV data
+│ ├─ CompareFiles.java # Compares CSV files and generates differences
+│ └─ Main.java # Runs the project
 ├─ lib/
-│  └─ opencsv-5.9.jar      # OpenCSV dependency
-│
-├─ input.csv               # Example input file
-├─ output.csv              # Generated output file
-└─ differences.txt         # Generated differences report
+│ └─ opencsv-5.9.jar # OpenCSV dependency
+├─ input.csv # Example input file
+├─ output.csv # Generated output file
+└─ differences.txt # Generated differences report
 
 ## Example Output
 
@@ -76,4 +73,5 @@ CSV_FILE_COMPARATOR/
 
 ===== FINAL REPORT =====
 The CSV files have differences:
+
 ✅ Changes written to differences.txt
