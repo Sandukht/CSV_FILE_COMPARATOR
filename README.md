@@ -48,6 +48,7 @@ output.csv will contain the modified CSV data.
 differences.txt will list all differences between input.csv and output.csv.
 
 ## Project Structure
+
 CSV_FILE_COMPARATOR/
 │
 ├─ src/main/java/com/example/
