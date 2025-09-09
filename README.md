@@ -53,16 +53,17 @@ CSV_FILE_COMPARATOR/
 
 ├─ src/main/java/com/example/
 
-│ ├─ OpenFile.java # Reads CSV files
+│     ├─ OpenFile.java # Reads CSV files
 
-│ ├─ ChangeFile.java # Modifies CSV data
+│     ├─ ChangeFile.java # Modifies CSV data
 
-│ ├─ CompareFiles.java # Compares CSV files and generates differences
+│     ├─ CompareFiles.java # Compares CSV files and generates differences
 
-│ └─ Main.java # Runs the project
+│     └─ Main.java # Runs the project
+
 ├─ lib/
 
-│ └─ opencsv-5.9.jar # OpenCSV dependency
+│     └─ opencsv-5.9.jar # OpenCSV dependency
 
 ├─ input.csv # Example input file
 
