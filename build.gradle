@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.opencsv:opencsv:5.8'   // must be exactly this
+}
+
+application {
+    mainClass = 'com.example.Main'
+}

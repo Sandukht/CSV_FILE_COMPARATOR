@@ -1,0 +1,100 @@
+Period,Inst_sector,Inst_sector_code,Descriptor,SNA08TRANS,Asset_liability_code,Values
+2007.03,Non-corporate business enterprises,121,ISA Saving (net),B08N000,ISA,0
+2007.03,Non-corporate business enterprises,121,Statistical discrepancy - net lending (+) / net borrowing (-),B090000,A000000,0
+2007.03,Non-corporate business enterprises,121,Total net transactions in non-financial assets,B091N00,AN00000,0
+2007.03,Non-corporate business enterprises,121,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net lending (+) / net borrowing (-) financial account,B09F000,A000000,0
+2007.03,Non-corporate business enterprises,121,Changes in net worth due to other changes in volume of assets,B102000,A000000,0
+2007.03,Non-corporate business enterprises,121,Changes in net worth due to nominal holding gains/losses,B103000,A000000,0
+2007.03,Non-corporate business enterprises,121,ISA Net capital taxes receivable,D910000,ISA,0
+2007.03,Non-corporate business enterprises,121,ISA Net capital transfers receivable,D990000,ISA,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in financial assets,F000000,AFA0000,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in monetary gold and special drawing rights,F000000,AFA0100,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in currency and deposits,F000000,AFA0200,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in debt securities,F000000,AFA0300,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in loans,F000000,AFA0400,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in equity and investment fund shares,F000000,AFA0500,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in insurance pension and standardised guarantee schemes,F000000,AFA0600,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in financial derivatives,F000000,AFA0700,0
+2007.03,Non-corporate business enterprises,121,Financial assets Net transactions in other accounts receivable,F000000,AFA0800,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in financial liabilities,F000000,AFL0000,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in monetary gold and special drawing rights,F000000,AFL0100,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in currency and deposits,F000000,AFL0200,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in debt securities,F000000,AFL0300,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in loans,F000000,AFL0400,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in equity and investment fund shares,F000000,AFL0500,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in insurance pension and standardised guarantee schemes,F000000,AFL0600,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in financial derivatives,F000000,AFL0700,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Net transactions in other accounts payable,F000000,AFL0800,0
+2007.03,Non-corporate business enterprises,121,Other Changes in the Volume of Assets and Liabilities Catastrophic losses,K030000,AN00000,0
+2007.03,Non-corporate business enterprises,121,Other Changes in the Volume of Assets and Liabilities Financial assets,K050000,AFA0000,0
+2007.03,Non-corporate business enterprises,121,Other Changes in the Volume of Assets and Liabilities Financial liabilities,K050000,AFL0000,0
+2007.03,Non-corporate business enterprises,121,Other Changes in the Volume of Assets and Liabilities Other changes in volume n.e.c.,K050000,AN00000,0
+2007.03,Non-corporate business enterprises,121,Other Changes in the Volume of Assets and Liabilities Changes in sector classification,K061000,AF00000,0
+2007.03,Non-corporate business enterprises,121,Other Changes in the Volume of Assets and Liabilities Changes in assets and liabilities classification,K062000,AF00000,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Total financial assets,K070000,AFA0000,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Monetary gold and special drawing rights,K070000,AFA0100,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Currency and deposits,K070000,AFA0200,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Debt securities,K070000,AFA0300,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Loans,K070000,AFA0400,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Equity and investment fund shares,K070000,AFA0500,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Insurance pension and standardised guarantee schemes,K070000,AFA0600,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Financial derivatives and employee stock options,K070000,AFA0700,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial assets Other accounts receivable,K070000,AFA0800,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Total financial liabilities,K070000,AFL0000,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Monetary gold and special drawing rights,K070000,AFL0100,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Currency and deposits,K070000,AFL0200,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Debt securities,K070000,AFL0300,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Loans,K070000,AFL0400,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Equity and investment fund shares,K070000,AFL0500,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Insurance pension and standardised guarantee schemes,K070000,AFL0600,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Financial derivatives and employee stock options,K070000,AFL0700,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Financial liabilities Other accounts payable,K070000,AFL0800,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Total non-financial assets,K070000,AN00000,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Produced non-financial assets,K070000,AN10000,0
+2007.03,Non-corporate business enterprises,121,Revaluation Account Non-produced non-financial assets,K070000,AN20000,0
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance Total financial assets,LE00000,AFA0000,99748
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance currency and deposits,LE00000,AFA0200,14773
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance debt securities,LE00000,AFA0300,1267
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance loans,LE00000,AFA0400,21229
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,58868
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance insurance pension and standardised guarantee schemes,LE00000,AFA0600,285
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance financial derivatives,LE00000,AFA0700,0
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,3326
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance Total financial liabilities,LE00000,AFL0000,345948
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance debt securities,LE00000,AFL0300,4613
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance loans,LE00000,AFL0400,62585
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,270604
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance insurance pension and standardised guarantee schemes,LE00000,AFL0600,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance financial derivatives,LE00000,AFL0700,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,8146
+2007.03,Non-corporate business enterprises,121,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,246200
+2007.03,Non-corporate business enterprises,121,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,91761
+2007.03,Non-corporate business enterprises,121,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,154439
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance Total financial assets,LS00000,AFA0000,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance currency and deposits,LS00000,AFA0200,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance debt securities,LS00000,AFA0300,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance loans,LS00000,AFA0400,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance equity and investment fund shares,LS00000,AFA0500,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance insurance pension and standardised guarantee schemes,LS00000,AFA0600,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance financial derivatives,LS00000,AFA0700,0
+2007.03,Non-corporate business enterprises,121,Financial assets Opening balance other accounts receivable,LS00000,AFA0800,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance Total financial liabilities,LS00000,AFL0000,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance monetary gold and special drawing rights,LS00000,AFL0100,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance currency and deposits,LS00000,AFL0200,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance debt securities,LS00000,AFL0300,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance loans,LS00000,AFL0400,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance equity and investment fund shares,LS00000,AFL0500,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance insurance pension and standardised guarantee schemes,LS00000,AFL0600,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance financial derivatives,LS00000,AFL0700,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Opening balance other accounts payable,LS00000,AFL0800,0
+2007.03,Non-corporate business enterprises,121,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,0
+2007.03,Non-corporate business enterprises,121,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,0
+2007.03,Non-corporate business enterprises,121,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,0
+2007.03,Non-corporate business enterprises,121,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,0
+2007.03,Non-corporate business enterprises,121,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,0
+2007.03,Non-corporate business enterprises,121,Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets net,NP02000,AN20000,0
